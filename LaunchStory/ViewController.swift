@@ -11,14 +11,8 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
-        super.viewDidLoad()
-        setupHomeScreen()
+        super.viewDidLoad()     
     }
-    
-    private func setupHomeScreen(){
-        
-    }
-
 
 }
 
